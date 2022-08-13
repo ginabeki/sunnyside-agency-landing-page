@@ -6,7 +6,7 @@
 ### Links
 
 - Solution URL: [Here](https://github.com/ginabeki/sunnyside-agency-landing-page)
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://ginabeki.github.io/sunnyside-agency-landing-page/#)
 
 ## How to run this project
 - `git clone git@github.com:ginabeki/sunnyside-agency-landing-page.git`
