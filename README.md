@@ -1,4 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page
+## Frontend Mentor - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
@@ -8,7 +8,7 @@
 - Solution URL: [Here](https://github.com/ginabeki/sunnyside-agency-landing-page)
 - Live Site URL: [Here](https://ginabeki.github.io/sunnyside-agency-landing-page/#)
 
-## How to run this project
+### How to run this project
 - `git clone git@github.com:ginabeki/sunnyside-agency-landing-page.git`
 - On your terminal run `npm install` to install the project's dependencies
 - `npm run dev` to run the project
